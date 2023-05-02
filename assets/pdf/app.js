@@ -54,7 +54,7 @@ const PDFStart = nameRoute => {
 }
 
 const startPdf = () => {
-    PDFStart('../media/r.pdf')
+    PDFStart('../media/Cv.pdf')
 }
 
 window.addEventListener('load', startPdf);
